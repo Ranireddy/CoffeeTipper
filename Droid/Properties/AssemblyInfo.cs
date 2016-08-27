@@ -13,6 +13,7 @@ using Android.App;
 [assembly: AssemblyCopyright("jamesmontemagno")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
+[assembly: MetaData("net.hockeyapp.android.appIdentifier", Value = "326f285a5b4148f9b49b6359a8dab8b1")]
 
 // The assembly version has the format "{Major}.{Minor}.{Build}.{Revision}".
 // The form "{Major}.{Minor}.*" will automatically update the build and revision,

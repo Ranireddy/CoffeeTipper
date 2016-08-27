@@ -14,7 +14,7 @@ namespace CoffeeTip.Droid
         {
             base.OnCreate(bundle);
             CheckForUpdates();
-            CrashManager.Register(this, "22d766eb2f414b4d8195f6f2b1610de5");
+            CrashManager.Register(this, "22d766eb2f414b4d8195f6f2b1610de5");//Added HockeyApp Support
             MetricsManager.Register(this, Application, "22d766eb2f414b4d8195f6f2b1610de5");
 
 
